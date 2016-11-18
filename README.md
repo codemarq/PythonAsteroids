@@ -13,7 +13,7 @@ Remake of the Classic arcade game "Asteroids" built in Python
 - codeskulptor.org
 
 ## Author
-John-Mike Marquardt
+&copy; 2016 John-Mike Marquardt [Github](https://github.com/codemarq) | [jmmarquardt.com](https://jmmarquardt.com)
 
 ## Acknowledgements
 * sound assets purchased from sounddogs.com, please do not redistribute
